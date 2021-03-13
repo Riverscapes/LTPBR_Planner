@@ -2,20 +2,24 @@
 title: My Homepage
 weight: 1
 ---
-
 <h1>LTPBR PLANNER</h1>
-the LTPBR-Planner supports the documentation and presentation of Low - Tech Process - Based Restoration planning and
-design information. This project is primarily intended for use by Anabranch Solutions restoration ecologistis and
+the LTPBR-Planner supports the documentation and presentation of [Low - Tech Process - Based Restoration](http://lowtechpbr.restoration.usu.edu) planning and
+design information. This project is primarily intended for use by [Anabranch Solutions](https://www.anabranchsolutions.com) restoration ecologistis and
 geomorphologist. The planner template and documentation provides a consistent set of standards for documenting the core
 spatial data compoents of an LTPBR planning and design.
 
+
+
 <div align="center">
   <a class="button large"
-    href="https://github.com/Riverscapes/LTPBR_Planner/releases/download/0.1.01/LTPBR-DESIGN-TEMPLATE.zip"><i class="fa fa-book"
-      aria-hidden="true"></i> Get Template Resources</a>
+    href="https://github.com/Riverscapes/LTPBR_Planner/releases/latest"><i class="fa fa-map-o"
+      aria-hidden="true"></i> Git the Template v0.9</a>
 </div>
 
-<h2>OVERVIEW AND BACKGROUND</h2>
+<h2>GET STARTED</h2>
+The following video tutorials are rough, but when followed linearly they should allow you to get up and running with the LTPBR GIS template.
+
+<h2>1. OVERVIEW AND BACKGROUND</h2>
 Scope and intent of the LTPBR planning and design template resources in its current release.
   - Intended primairly for Anabranch Solutions design eologists and geomorphologists.
   - Provides a template set of GIS data standards for documenting LTPBR restoration plans within QGIS.
@@ -27,7 +31,7 @@ Scope and intent of the LTPBR planning and design template resources in its curr
 <hr />
 
 
-<h2>AN INTRODUCTION TO QGIS</h2>
+<h2>2. AN INTRODUCTION TO QGIS</h2>
 A short introduction to the essential QGIS features needed to get started with the LTPBR planning and design template resources.
 
 <div class="responsive-embed widescreen">
@@ -35,19 +39,34 @@ A short introduction to the essential QGIS features needed to get started with t
 </div>
 <hr />
 
-<h2>LTPBR PLANNER TEMPLATE</h2>
-Overview of the essential LTPBR planning and design data components, including the [QGIS project](https://docs.qgis.org/3.16/en/docs/user_manual/introduction/project_files.html) and [geopackage database](https://www.geopackage.org) files.
+<h2>3. LTPBR PLANNER TEMPLATE</h2>
+Overview of the LTPBR planning and design resources, including the [QGIS project](https://docs.qgis.org/3.16/en/docs/user_manual/introduction/project_files.html) and [geopackage database](https://www.geopackage.org) files.
 
-<h2>LTPBR PLANNING</h2>
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/s1nHeYKcUyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+<hr />
+
+<h2>4. START YOUR FIRST PROJECT</h2>
+Getting started and housekeeping as you start your first LTPBR design.
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Cl4zxixMMjw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+<hr />
+
+
+<h2>5. LTPBR PLANNING</h2>
 Interactively populating the LTPBR planning components in QGIS, including active channels, floodplains, and recovery potential.
+ - Add Google Maps and others basemaps using [this link](https://www.hatarilabs.com/ih-en/how-to-add-a-google-map-in-qgis-3-tutorial)
 
-<h2>LTPBR DESIGN</h2>
+<h2>6. LTPBR DESIGN</h2>
 Interactively create and edit structure and structure complex information in QGIS.
 
-<h2>MAP LAYOUTS</h2>
-Still in development, but there are a few custom mapping solutions 
+<h2>7. MAP LAYOUTS</h2>
+Introduction to map layouts in QGIS, and standard maps included in the template.
 
-<h2>RIVERSCAPES UPLOAD</h2>
+<h2>8. RIVERSCAPES UPLOAD</h2>
 (IN DEVELOPMENT) Uploading your design project to the riverscapes warehouse
 In Development
 
