@@ -57,8 +57,13 @@ Getting started and housekeeping as you start your first LTPBR design.
 
 
 <h2>5. LTPBR PLANNING</h2>
-Interactively populating the LTPBR planning components in QGIS, including active channels, floodplains, and recovery potential.
+Interactively populating LTPBR planning components in QGIS, including active channels, floodplains, and recovery potential.
  - Add Google Maps and others basemaps using [this link](https://www.hatarilabs.com/ih-en/how-to-add-a-google-map-in-qgis-3-tutorial)
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wMkBnheKiGc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+<hr />
 
 <h2>6. LTPBR DESIGN</h2>
 Interactively create and edit structure and structure complex information in QGIS.
