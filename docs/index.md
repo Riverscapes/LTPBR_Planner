@@ -69,7 +69,7 @@ Interactively populating LTPBR planning components in QGIS, including active cha
 Interactively create and edit structure and structure complex information in QGIS.
 
 <h2>7. MAP LAYOUTS</h2>
-Introduction to map layouts in QGIS, and standard maps included in the template.
+(IN DEVELOPMENT) Introduction to map layouts in QGIS and standard maps included in the template.
 
 <h2>8. RIVERSCAPES UPLOAD</h2>
 (IN DEVELOPMENT) Uploading your design project to the riverscapes warehouse
