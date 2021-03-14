@@ -13,7 +13,7 @@ spatial data compoents of an LTPBR planning and design.
 <div align="center">
   <a class="button large"
     href="https://github.com/Riverscapes/LTPBR_Planner/releases/latest"><i class="fa fa-map-o"
-      aria-hidden="true"></i> Git the Template v0.9</a>
+      aria-hidden="true"></i> Git the Template v0.10</a>
 </div>
 
 <h2>GET STARTED</h2>
@@ -68,6 +68,11 @@ Interactively populating LTPBR planning components in QGIS, including active cha
 <h2>6. LTPBR DESIGN</h2>
 Interactively create and edit structure and structure complex information in QGIS.
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DddFFxtpKmk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+<hr />
+
 <h2>7. MAP LAYOUTS</h2>
 (IN DEVELOPMENT) Introduction to map layouts in QGIS and standard maps included in the template.
 
@@ -75,5 +80,5 @@ Interactively create and edit structure and structure complex information in QGI
 (IN DEVELOPMENT) Uploading your design project to the riverscapes warehouse
 In Development
 
-<h2>RIVERSCAPES PROJECT INTRODUCTION</h2>
+<h2>9. RIVERSCAPES PROJECT INTRODUCTION</h2>
 (IN DEVELOPMENT) Overveiw of an LTPBR design project exported from the riverscapes warehouse
