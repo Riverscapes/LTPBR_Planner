@@ -3,11 +3,12 @@ title: My Homepage
 weight: 1
 ---
 <h1>LTPBR PLANNER</h1>
-the LTPBR-Planner supports the documentation and presentation of [Low - Tech Process - Based Restoration](http://lowtechpbr.restoration.usu.edu) planning and
+The LTPBR-Planner supports the documentation and presentation of [Low - Tech Process - Based Restoration](http://lowtechpbr.restoration.usu.edu) planning and
 design information. This project is primarily intended for use by [Anabranch Solutions](https://www.anabranchsolutions.com) restoration ecologistis and
 geomorphologist. The planner template and documentation provides a consistent set of standards for documenting the core
 spatial data compoents of an LTPBR planning and design.
 
+![](assets/images/AnabranchSolutionLogo_D_solid_blue_solid_blue.png)
 
 
 <div align="center">
