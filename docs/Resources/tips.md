@@ -18,4 +18,12 @@ Copy and paste your valley bottoms for easy creation of recovery potential polyg
 </div>
 <hr />
 
+<h2>ADDING RELATED CHILD FEATURES</h2>
+Taking advantage of new features in QGIS 3.16 for adding related records, such as structures to a complex.
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ue6jJ8NzHU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+<hr />
+
 <h2>More Cool Tips Coming Soon...</h2>
